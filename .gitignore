@@ -118,3 +118,4 @@ dmypy.json
 # Project specific ignores
 build
 dist
+.idea
