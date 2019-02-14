@@ -120,3 +120,4 @@ build
 dist
 .
 venv
+.idea
